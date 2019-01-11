@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "shop": "院落创意菜",
+    "picture": "http://n.sinaimg.cn/sinacn20/755/w640h915/20180606/6132-hcqccip5419930.jpg",
+    "product": "百香果（冷饮）1扎",
+    "price": 19.9,
+    "ifCommented": true
+  },
+  {
+    "id": 2,
+    "shop": "真馍坊（红星美凯龙店）",
+    "picture": "https://p0.meituan.net/120.0/waimaipoi/72eeb8ed3ea93bdf0b6fb9f3a47df140171292.jpg",
+    "product": "滋补药膳羊杂汤",
+    "price": 19,
+    "ifCommented": false
+  },
+  {
+    "id": 3,
+    "shop": "蒙自源过桥米线（厦门湾悦城店）",
+    "picture": "https://p1.meituan.net/120.0/waimaipoi/b9fddaf30f129435143efe3a93af3dba33031.jpg",
+    "product": "番茄牛肉过桥米线",
+    "price": 23,
+    "ifCommented": true
+  },
+  {
+    "id": 4,
+    "shop": "肉片大王",
+    "picture": "https://p1.meituan.net/120.0/waimaipoi/2cfb4fdc216c6e4faaefa104b100176c69656.jpg",
+    "product": "福鼎肉片",
+    "price": 19.3,
+    "ifCommented": true
+  },
+  {
+    "id": 5,
+    "shop": "鱼印·川湘水煮",
+    "picture": "https://p0.meituan.net/120.0/waimaipoi/a7da6c39f702f2d05213cdba9b5fbbaa333446.jpg",
+    "product": " 泡椒田鸡单人餐(含1份米饭)",
+    "price": 12.38,
+    "ifCommented": false
+  }
+]
