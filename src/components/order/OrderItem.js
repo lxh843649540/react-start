@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import './style.css'
+import './orderItem.css'
 
 class OrderItem extends Component {
   constructor(props) {

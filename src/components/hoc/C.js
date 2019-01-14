@@ -9,6 +9,10 @@ class C extends Component {
       </div>
     );
   }
+
+  getName() {
+    return '我是C组件'
+  }
 }
 
-export default a(C);
+export default a('我是C')(C);

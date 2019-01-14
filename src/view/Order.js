@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import OrderList from '../components/orderList';
-import Header from '../components/header'
+import OrderList from '../components/order/OrderList';
+import Header from '../components/order/Header'
 import './order.css'
 
 class Order extends Component{

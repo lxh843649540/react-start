@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
-import TodoList from './components/todolist/TodoList';
-import NameCard from './components/namecard/NameCard';
-import Ctx from './components/ctx/Ctx';
-import Clock from './components/clock/Clock';
-import TicTacToe from './components/ticTacToe/TicTacToe';
-import StyledComponents from './components/styledComponents/StyledComponents'
-import Context from './context'
-import './App.css'
+import TodoList from '../components/todolist/TodoList';
+import NameCard from '../components/namecard/NameCard';
+import Ctx from '../components/ctx/Ctx';
+import Clock from '../components/clock/Clock';
+import TicTacToe from '../components/ticTacToe/TicTacToe';
+import StyledComponents from '../components/styledComponents/StyledComponents'
+import Context from '../context'
+import './app.css'
 const themes = {
   light: {
     color: '#000',

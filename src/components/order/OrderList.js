@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import OrderItem from '../orderItem'
+import OrderItem from './OrderItem'
 
 class OrderList extends Component {
   constructor(props) {
