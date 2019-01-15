@@ -5,14 +5,17 @@ import C from '../components/hoc/C'
 // E,F 使用了继承方式的高阶组件D
 import E from '../components/hoc/E'
 import F from '../components/hoc/F'
+import tabbar from './Tabbar';
 import './hoc.css'
 
 class Hoc extends Component {
   render() {
     return (
       <div>
+        <h1>代理组件实例：</h1>
         <B name={'张三'} age={18}/>
         <C/>
+        <h1>继承组件实例：</h1>
         <E/>
         <F/>
       </div>
@@ -20,4 +23,4 @@ class Hoc extends Component {
   }
 }
 
-export default Hoc;
+export default tabbar(Hoc);

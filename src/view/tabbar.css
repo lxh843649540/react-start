@@ -1,3 +1,7 @@
+.tabbar-childrenComponent {
+  padding-bottom: 60px;
+}
+
 .tabbar {
   height: 60px;
   position: fixed;
@@ -21,6 +25,7 @@
 .tabbar-item.active {
   color: #e4393c;
 }
+
 .tabbar-text {
   font-size: 14px;
 }

@@ -5,6 +5,7 @@ import Ctx from '../components/ctx/Ctx';
 import Clock from '../components/clock/Clock';
 import TicTacToe from '../components/ticTacToe/TicTacToe';
 import StyledComponents from '../components/styledComponents/StyledComponents'
+import tabbar from './Tabbar';
 import Context from '../context'
 import './app.css'
 const themes = {
@@ -84,4 +85,4 @@ class App extends Component{
     })
   }
 }
-export default App;
+export default tabbar(App);
