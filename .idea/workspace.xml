@@ -3,12 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1af3e3bc-a520-4a02-acbe-f9a766835201" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Router.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/Hoc.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/Hoc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/Order.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/Order.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/Tabbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/Tabbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/view/tabbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/view/tabbar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ctx/Ctx.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ctx/Ctx.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -64,7 +59,6 @@
         <option value="$PROJECT_DIR$/src/components/styledComponents/TestComponent.js" />
         <option value="$PROJECT_DIR$/src/components/TestComponent.js" />
         <option value="$PROJECT_DIR$/src/components/styledComponents/StyledComponents.js" />
-        <option value="$PROJECT_DIR$/src/components/ctx/Ctx.js" />
         <option value="$PROJECT_DIR$/src/components/header/Header.js" />
         <option value="$PROJECT_DIR$/src/components/OrderList.js" />
         <option value="$PROJECT_DIR$/src/components/orderList/style.css" />
@@ -94,6 +88,7 @@
         <option value="$PROJECT_DIR$/src/view/Hoc.js" />
         <option value="$PROJECT_DIR$/src/Router.js" />
         <option value="$PROJECT_DIR$/src/view/tabbar.css" />
+        <option value="$PROJECT_DIR$/src/components/ctx/Ctx.js" />
       </list>
     </option>
   </component>
@@ -125,6 +120,13 @@
               <item name="react-start" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="react-start" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-start" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="ctx" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="react-start" type="b2602c69:ProjectViewProjectNode" />
@@ -199,12 +201,14 @@
       <workItem from="1547304964155" duration="60000" />
       <workItem from="1547432617686" duration="20867000" />
       <workItem from="1547515585657" duration="409000" />
-      <workItem from="1547539098905" duration="5206000" />
+      <workItem from="1547539098905" duration="5208000" />
+      <workItem from="1547608227109" duration="3000000" />
+      <workItem from="1547688731651" duration="1867000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101535000" />
+    <option name="totallyTimeSpent" value="106404000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -273,13 +277,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/clock/Clock.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/todolist/TodoList.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -325,16 +322,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="16020" selection-start-line="16020" selection-end-line="16020" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/ctx/Ctx.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -566,6 +553,23 @@
           <caret line="80" column="23" selection-start-line="80" selection-start-column="15" selection-end-line="80" selection-end-column="23" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/clock/Clock.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/ctx/Ctx.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="45" lean-forward="true" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
