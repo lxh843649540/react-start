@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1af3e3bc-a520-4a02-acbe-f9a766835201" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ctx/Ctx.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ctx/Ctx.js" afterDir="false" />
-    </list>
+    <list default="true" id="1af3e3bc-a520-4a02-acbe-f9a766835201" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -92,7 +89,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -203,12 +200,12 @@
       <workItem from="1547515585657" duration="409000" />
       <workItem from="1547539098905" duration="5208000" />
       <workItem from="1547608227109" duration="3000000" />
-      <workItem from="1547688731651" duration="1867000" />
+      <workItem from="1547688731651" duration="1870000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106404000" />
+    <option name="totallyTimeSpent" value="106407000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
